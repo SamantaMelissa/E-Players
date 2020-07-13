@@ -1,0 +1,37 @@
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.RazorAssemblyInfo.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.RazorAssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.exe
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.dll
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.pdb
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.Views.dll
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\bin\Debug\netcoreapp3.1\Aula37 Eplayers.Views.pdb
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.TagHelpers.input.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.TagHelpers.output.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.RazorCoreGenerate.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.RazorTargetAssemblyInfo.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.RazorTargetAssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.Views.pdb
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\staticwebassets\Aula37 Eplayers.StaticWebAssets.Manifest.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\staticwebassets\Aula37 Eplayers.StaticWebAssets.xml
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.dll
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.pdb
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.genruntimeconfig.cache
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.csproj.CopyComplete
