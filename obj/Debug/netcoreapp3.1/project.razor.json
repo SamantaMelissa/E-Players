@@ -20521,8 +20521,18 @@
   "RootNamespace": "Aula37_Eplayers",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\saman\\OneDrive\\Documentos\\Aula37 Eplayers\\Views\\Equipe\\Index.cshtml",
+      "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\saman\\OneDrive\\Documentos\\Aula37 Eplayers\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\saman\\OneDrive\\Documentos\\Aula37 Eplayers\\Views\\Noticias\\Index.cshtml",
+      "TargetPath": "Views\\Noticias\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

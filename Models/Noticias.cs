@@ -104,10 +104,10 @@ namespace Aula37_Eplayers.Models
 
         
         /// <summary>
-        /// Reescreve
+        /// Reescreve o CSV
         /// </summary>
-        /// <param name="PATH"></param>
-        /// <param name="linhas"></param>
+        /// <param name="PATH">Caminho do arquivo</param>
+        /// <param name="linhas">Linhas para reescrever o arquivo</param>
         public void RewriteCSV(string PATH, List<string> linhas)
         {
             using(StreamWriter output = new StreamWriter(PATH))

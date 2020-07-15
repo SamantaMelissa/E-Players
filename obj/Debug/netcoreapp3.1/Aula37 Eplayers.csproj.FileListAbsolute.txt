@@ -35,3 +35,5 @@ C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula3
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.pdb
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.genruntimeconfig.cache
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.csproj.CopyComplete
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Index.cshtml.g.cs
