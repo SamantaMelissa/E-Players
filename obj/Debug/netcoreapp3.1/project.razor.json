@@ -20531,11 +20531,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\saman\\OneDrive\\Documentos\\Aula37 Eplayers\\Views\\Noticias\\Index.cshtml",
-      "TargetPath": "Views\\Noticias\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\saman\\OneDrive\\Documentos\\Aula37 Eplayers\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -20543,6 +20538,11 @@
     {
       "FilePath": "c:\\Users\\saman\\OneDrive\\Documentos\\Aula37 Eplayers\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\saman\\OneDrive\\Documentos\\Aula37 Eplayers\\Views\\Noticia\\Index.cshtml",
+      "TargetPath": "Views\\Noticia\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
