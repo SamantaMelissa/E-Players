@@ -1,4 +1,4 @@
-/*sdgsdg using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Aula37_Eplayers.Models;
 using Microsoft.AspNetCore.Http;
+using System.IO;
 
 namespace Aula37_Eplayers.Controllers
 {
@@ -23,7 +24,7 @@ namespace Aula37_Eplayers.Controllers
         }
 
 
-        public IActionResult Cadastrar(IFormCollection form){
+        public IActionResult Cadastro(IFormCollection form){
 
         Noticias noticia = new Noticias();
         noticia.IdNoticias = Int32.Parse(form ["IdNoticias"]);
@@ -34,10 +35,9 @@ namespace Aula37_Eplayers.Controllers
 
         noticiaModel.Create(noticia);
 
-        ViewBag.Noticias = noticiaModel.ReadAll();
+        ViewBag.Noticia = noticiaModel.ReadAll();
         return LocalRedirect("~/noticia");
 
         }
     }
 }
-*/

@@ -1,9 +1,11 @@
-<!-- model Noticias 
+@model Noticias
 @{
     ViewData["Title"] = "Noticias";
 }
 
-<form action="@Url.Action("Cadastrar")" method="post">
+<form action="@Url.Action("Cadastro")" >
+
+    
 
 <label for="IdNoticias">Noticia</label>
 <input type="text" name="IdNoticias" id="IdNoticias">
@@ -33,7 +35,7 @@
     </thead>
 
     <tbody>
-        @foreach (var item in ViewBag.Noticias)
+        @foreach (var item in ViewBag.Noticia)
         {
             <tr> 
                 <td>@item.IdNoticias</td> 
@@ -46,4 +48,4 @@
         }
     </tbody>
 
-</table>-->
+</table>

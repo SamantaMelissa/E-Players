@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Aula37_Eplayers.Models;
 using Microsoft.AspNetCore.Http;
+using System.IO;
 
 namespace Aula37_Eplayers.Controllers
 {
@@ -14,7 +15,6 @@ namespace Aula37_Eplayers.Controllers
     {
 
         Equipe equipeModel = new Equipe();
-
 
         public IActionResult Index()
         {
