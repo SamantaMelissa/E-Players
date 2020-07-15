@@ -17,6 +17,10 @@ namespace Aula37_Eplayers.Models
 
         private const string PATH = "Database/noticias.csv";
 
+         public Noticias(){
+            CreateFolderAndFile(PATH);
+        }
+
         private string PrepararTexto (Noticias n){
             return $"{n.IdNoticias};{n.Titulo};{n.Texto}; {n.Imagem}";
         }
