@@ -1,30 +1,47 @@
 @model Noticias
 @{
     ViewData["Title"] = "Noticias";
+
 }
+<div class="titulo_pagina">
+<h1>Ver @ViewData["Title"]</h1>
+</div>
 
-<form action="@Url.Action("Cadastro")" method="post" enctype="multipart/form-data">
+<form class = "cadastro" action="@Url.Action("Cadastro")" method="post" enctype="multipart/form-data">
 
-
-<label for="IdNoticias">Noticia</label>
+<div class="campo">
+<label for="IdNoticias">IdNoticias</label>
 <input type="text" name="IdNoticias" id="IdNoticias">
+</div>
 
+<div class= "campo">
 <label for="Titulo">Título</label>
 <input type="text" name="Titulo" id="Titulo">
+</div>
 
+<div class= "campo">
 <label for="Texto">Texto</label>
 <input type="text" name="Texto" id="Texto">
+</div>
 
+<div class= "campo">
 <label for="Imagem">Imagem</label>
 <input type="file" name="Imagem" id="Imagem">
+</div>
 
 
 
-<button type="submit">Ver Noticias</button>
+
+
+
+
+<button class="gradient btn" type="submit">Notícias</button>
+</div>
+
 
 </form>
 
-<table class = "table table-responsive table-striped">
+<table >
 
     <thead>
         <th>Noticia</th>

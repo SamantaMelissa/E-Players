@@ -20,7 +20,6 @@ C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula3
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.TagHelpers.output.cache
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Aula37 Eplayers.RazorCoreGenerate.cache
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\saman\OneDrive\Documentos\Aula37 Eplayers\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs

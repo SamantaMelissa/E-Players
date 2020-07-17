@@ -48,10 +48,10 @@ namespace Aula37_Eplayers.Models
             RewriteCSV(PATH, linhas);
         }
 
-/// <summary>
-///  Uma lista que lê informações como: Titulo
-/// </summary>
-/// <returns>Linha</returns>
+        /// <summary>
+        ///  Uma lista que lê informações como: Titulo
+        /// </summary>
+        /// <returns>Linha</returns>
         public List<Noticias> ReadAll()
         { 
             List<Noticias> noticias = new List<Noticias>();

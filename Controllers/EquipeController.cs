@@ -30,9 +30,10 @@ namespace Aula37_Eplayers.Controllers
         Equipe equipe = new Equipe();
         equipe.IdEquipe = Int32.Parse(form ["IdEquipe"]);
         equipe.Nome = form["Nome"];
+        
 
         //Upload da imagem
-        equipe.Imagem = form["Imagem"];
+       
 
         var file    = form.Files[0];
         var folder  = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
